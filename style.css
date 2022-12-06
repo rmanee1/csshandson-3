@@ -1,0 +1,162 @@
+body{
+    background-color: darkslategrey;
+    height: 1500px;
+}
+
+.two{
+    position: relative;
+    width: 100px;
+    padding: 5px 60px;
+    line-height: 20px;
+    border-radius: 10px;
+    border: 4px solid red;
+    color: brown;
+   left:40% ;
+    background-color: white;
+}
+
+.mani{
+    border: 4px solid green;
+    height: 550px;
+    width:100%;
+    
+    
+   
+    
+}
+
+.mani1{
+    position:relative;
+    border: 4px solid red;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 25px;
+    line-height: 20px;
+    width: 150px;
+    top:10px;
+    left: 10px;
+    
+   
+}
+
+.mani2{
+    position:absolute;
+    border: 4px solid red;
+    border-radius: 5px;
+    background-color: white;
+    border-radius: 15px;
+    right: 70px;
+    padding: 15px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 45px;
+    width: 150px;
+    height: 150px;
+    right: 70px;
+    top: 150px;
+    background-image: url(./h.jpg);
+    background-repeat: no-repeat;
+    background-size: 120px ;
+    background-position:center ;
+}
+    
+
+
+.mani3{
+    position:relative;
+    border: 4px solid red;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 15px;
+    line-height: 20px;
+    width: 150px;
+    top:150px;
+    left: 10px;
+}
+.mani4{
+    position:absolute;
+        border: 4px solid red;
+        border-radius: 5px;
+        text-align: center;
+        background-color: white;
+        border-radius: 15px;
+        padding: 15px;
+       font-size: 15px;
+        line-height: 20px;
+        width: 200px;
+        right: 10px;
+        top:470px;
+      }
+    .m1{
+        text-align: center;
+    }
+
+    .m{
+        border: 4px solid purple;
+        height:450px;
+        width: 500px;
+        background-color: green;
+        align-items: center;
+        position: relative;
+        left: 300px;
+
+       
+           
+    }
+
+    .mm{
+        display:inline-block;
+        border:3px solid gray ;
+        height: 150px;
+        text-align: center;
+        margin: 8px;
+        background-color: yellowgreen;
+     
+    }
+
+    .nn{
+        border: 2px solid gray;
+        background-color: yellowgreen;
+      text-align: center;
+        
+    }
+    .nn{
+        display:inline-block;
+        border:3px solid gray ;
+        height: 150px;
+        text-align: center;
+        background-color: yellowgreen;
+    }
+    
+    .pp{
+    display: inline-block;
+    margin: 5px;
+   
+    }
+
+    .gg{
+        padding:20px;
+    }
+    .hh{
+        display: flex;
+        border:4px solid red;
+        border-radius: 20px;
+        flex-wrap: wrap;
+        background-color: green;
+        padding: 10px 60px;
+        color: blue;
+        position: fixed;
+        top: 350px;
+        left: 450px;
+    }
+    .hb{
+        position:relative;
+        left: 50px;
+        top:5px;
+    }
